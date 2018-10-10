@@ -1,1 +1,1 @@
-freeStyleJob("Seed1")
+Job("Seed1")
