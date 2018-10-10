@@ -1,4 +1,4 @@
-job("Seed1")
+freeStyleJob("Seed1")
 {
   label("Slave1")
 }
