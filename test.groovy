@@ -1,4 +1,4 @@
-freeStyleJob("Seed1")
+freeStyleJob("Seed2")
 {
-  label("Slave1")
+  label("Slave12")
 }
